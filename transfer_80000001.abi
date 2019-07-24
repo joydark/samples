@@ -1,0 +1,8 @@
+{
+    "ABI version": 0,
+    "functions": [{
+        "name": "transfer", "signed": false,
+        "inputs": [],
+        "outputs": []
+    }]
+}
